@@ -1,3 +1,11 @@
+<a href="https://www.statuscake.com" title="Website Uptime Monitoring"><img src="https://app.statuscake.com/button/index.php?Track=8zVF1J6Ndj&Days=1&Design=2" /></a>
+
+.. image:: https://travis-ci.com/knap25/se_hello_printer_app.svg?branch=master
+      :target: https://travis-ci.com/knap25/se_hello_printer_app
+
+.. image:: https://app.statuscake.com/button/index.php?Track=8zVF1J6Ndj&Days=1&Design=2
+      :target: https://www.statuscake.com
+
 Simple Flask App
 ================
 
@@ -59,11 +67,7 @@ o Continuous Integration, Continuous Delivery i Continuous Deployment.
 - Integracja z TravisCI:
 
   ::
-.. image:: https://travis-ci.com/knap25/se_hello_printer_app.svg?branch=master
-      :target: https://travis-ci.com/knap25/se_hello_printer_app
 
-.. image::
-      :target: https://www.statuscake.com
     ...
 
 
